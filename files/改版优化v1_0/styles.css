@@ -651,7 +651,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u12_div {
   border-width:0px;
@@ -707,7 +706,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u13_div {
   border-width:0px;
@@ -735,6 +733,7 @@
   font-style:normal;
   font-size:12px;
   color:#000000;
+  text-align:left;
 }
 #u13 {
   border-width:0px;
@@ -751,6 +750,7 @@
   font-style:normal;
   font-size:12px;
   color:#000000;
+  text-align:left;
 }
 #u13 .text {
   position:absolute;
@@ -763,7 +763,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u14_div {
   border-width:0px;
@@ -817,7 +816,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u15_div {
   border-width:0px;
