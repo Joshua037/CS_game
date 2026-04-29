@@ -70,6 +70,10 @@
   color:#000000;
   text-align:left;
 }
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .form_hint {
   color:#999999;
 }
@@ -86,5 +90,13 @@
   color:#FFFFFF;
 }
 .icon {
+}
+._连接线 {
+}
+.box_3 {
+}
+.button {
+}
+.flow_shape {
 }
 textarea, select, input, button, div, svg { outline: none; }
