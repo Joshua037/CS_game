@@ -1546,6 +1546,7 @@
   border-width:1px;
   border-style:solid;
   border-color:rgba(149, 242, 4, 1);
+  border-top:0px;
   border-right:0px;
   border-radius:5px;
   border-top-left-radius:0px;
@@ -1600,6 +1601,7 @@
   border-width:1px;
   border-style:solid;
   border-color:rgba(149, 242, 4, 1);
+  border-top:0px;
   border-right:0px;
   border-radius:5px;
   border-top-left-radius:0px;
@@ -1655,6 +1657,7 @@
   border-width:1px;
   border-style:solid;
   border-color:rgba(149, 242, 4, 1);
+  border-top:0px;
   border-right:0px;
   border-radius:5px;
   border-top-left-radius:0px;
@@ -1712,6 +1715,7 @@
   border-width:1px;
   border-style:solid;
   border-color:rgba(149, 242, 4, 1);
+  border-top:0px;
   border-radius:5px;
   border-top-left-radius:0px;
   border-top-right-radius:0px;
