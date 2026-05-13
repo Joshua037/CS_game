@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="60px" height="60px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="70px" height="70px" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip569">
-      <path d="M 0 30  C 0 13.2  13.2 0  30 0  C 46.800000000000004 0  60 13.2  60 30  C 60 46.800000000000004  46.800000000000004 60  30 60  C 13.2 60  0 46.800000000000004  0 30  Z " fill-rule="evenodd" />
+    <mask fill="white" id="Clip510">
+      <path d="M 60.073129929366466 10.57996405520444  L 35 35  L 33.22105232115158 0.04523859106001615  C 33.8135556336715 0.015084404619260711  34.40672986733953 0  35 0  C 44.442713812940774 0  53.48480390855415 3.8154386175562305  60.073129929366466 10.57996405520444  Z " fill-rule="evenodd" />
     </mask>
   </defs>
-  <g transform="matrix(1 0 0 1 -373 -2632 )">
-    <path d="M 0 30  C 0 13.2  13.2 0  30 0  C 46.800000000000004 0  60 13.2  60 30  C 60 46.800000000000004  46.800000000000004 60  30 60  C 13.2 60  0 46.800000000000004  0 30  Z " fill-rule="nonzero" fill="rgba(239, 239, 239, 1)" stroke="none" transform="matrix(1 0 0 1 373 2632 )" class="fill" />
-    <path d="M 0 30  C 0 13.2  13.2 0  30 0  C 46.800000000000004 0  60 13.2  60 30  C 60 46.800000000000004  46.800000000000004 60  30 60  C 13.2 60  0 46.800000000000004  0 30  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 373 2632 )" class="stroke" mask="url(#Clip569)" />
+  <g transform="matrix(1 0 0 1 -368 -3247 )">
+    <path d="M 60.073129929366466 10.57996405520444  L 35 35  L 33.22105232115158 0.04523859106001615  C 33.8135556336715 0.015084404619260711  34.40672986733953 0  35 0  C 44.442713812940774 0  53.48480390855415 3.8154386175562305  60.073129929366466 10.57996405520444  Z " fill-rule="nonzero" fill="rgba(170, 170, 170, 1)" stroke="none" transform="matrix(1 0 0 1 368 3247 )" class="fill" />
+    <path d="M 60.073129929366466 10.57996405520444  L 35 35  L 33.22105232115158 0.04523859106001615  C 33.8135556336715 0.015084404619260711  34.40672986733953 0  35 0  C 44.442713812940774 0  53.48480390855415 3.8154386175562305  60.073129929366466 10.57996405520444  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" transform="matrix(1 0 0 1 368 3247 )" class="stroke" mask="url(#Clip510)" />
   </g>
 </svg>
