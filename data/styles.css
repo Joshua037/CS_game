@@ -80,6 +80,12 @@
   color:#000000;
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
 .form_hint {
   color:#999999;
 }
