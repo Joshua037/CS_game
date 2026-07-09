@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="25" y1="0" x2="25" y2="50" id="LinearGradient87">
-      <stop id="Stop88" stop-color="#bae2f1" offset="0" />
-      <stop id="Stop89" stop-color="#3e6afa" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="25" y1="0" x2="25" y2="50" id="LinearGradient205">
+      <stop id="Stop206" stop-color="#bae2f1" offset="0" />
+      <stop id="Stop207" stop-color="#3e6afa" offset="1" />
     </linearGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip90">
+    <mask fill="white" id="Clip208">
       <path d="M 0 25  C 0 10.999999999999998  10.999999999999998 0  25 0  C 39 0  50 10.999999999999998  50 25  C 50 39  39 50  25 50  C 10.999999999999998 50  0 39  0 25  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -198 -874 )">
-    <path d="M 0 25  C 0 10.999999999999998  10.999999999999998 0  25 0  C 39 0  50 10.999999999999998  50 25  C 50 39  39 50  25 50  C 10.999999999999998 50  0 39  0 25  Z " fill-rule="nonzero" fill="url(#LinearGradient87)" stroke="none" transform="matrix(1 0 0 1 198 874 )" class="fill" />
-    <path d="M 0 25  C 0 10.999999999999998  10.999999999999998 0  25 0  C 39 0  50 10.999999999999998  50 25  C 50 39  39 50  25 50  C 10.999999999999998 50  0 39  0 25  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(64, 95, 242, 1)" fill="none" transform="matrix(1 0 0 1 198 874 )" class="stroke" mask="url(#Clip90)" />
+    <path d="M 0 25  C 0 10.999999999999998  10.999999999999998 0  25 0  C 39 0  50 10.999999999999998  50 25  C 50 39  39 50  25 50  C 10.999999999999998 50  0 39  0 25  Z " fill-rule="nonzero" fill="url(#LinearGradient205)" stroke="none" transform="matrix(1 0 0 1 198 874 )" class="fill" />
+    <path d="M 0 25  C 0 10.999999999999998  10.999999999999998 0  25 0  C 39 0  50 10.999999999999998  50 25  C 50 39  39 50  25 50  C 10.999999999999998 50  0 39  0 25  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(64, 95, 242, 1)" fill="none" transform="matrix(1 0 0 1 198 874 )" class="stroke" mask="url(#Clip208)" />
   </g>
 </svg>
