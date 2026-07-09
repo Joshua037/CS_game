@@ -2,16 +2,16 @@
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="420px" height="299px" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <linearGradient gradientUnits="userSpaceOnUse" x1="420" y1="-2.6556534749033744E-13" x2="0" y2="298.9999999999997" id="LinearGradient313">
-      <stop id="Stop314" stop-color="#e9eefa" offset="0" />
-      <stop id="Stop315" stop-color="#91bdf9" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="420" y1="-2.6556534749033744E-13" x2="0" y2="298.9999999999997" id="LinearGradient431">
+      <stop id="Stop432" stop-color="#e9eefa" offset="0" />
+      <stop id="Stop433" stop-color="#91bdf9" offset="1" />
     </linearGradient>
-    <mask fill="white" id="Clip316">
+    <mask fill="white" id="Clip434">
       <path d="M 0 294  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 415 0  C 417.8 0  420 2.1999999999999997  420 5  L 420 294  C 420 296.8  417.8 299  415 299  L 5 299  C 2.1999999999999997 299  0 296.8  0 294  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 0 -27 )">
     <path d="M 0 294  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 415 0  C 417.8 0  420 2.1999999999999997  420 5  L 420 294  C 420 296.8  417.8 299  415 299  L 5 299  C 2.1999999999999997 299  0 296.8  0 294  Z " fill-rule="nonzero" fill="rgba(30, 152, 215, 0)" stroke="none" transform="matrix(1 0 0 1 0 27 )" class="fill" />
-    <path d="M 0 294  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 415 0  C 417.8 0  420 2.1999999999999997  420 5  L 420 294  C 420 296.8  417.8 299  415 299  L 5 299  C 2.1999999999999997 299  0 296.8  0 294  Z " stroke-width="2" stroke-dasharray="0" stroke="url(#LinearGradient313)" fill="none" transform="matrix(1 0 0 1 0 27 )" class="stroke" mask="url(#Clip316)" />
+    <path d="M 0 294  L 0 5  C 0 2.1999999999999997  2.1999999999999997 0  5 0  L 415 0  C 417.8 0  420 2.1999999999999997  420 5  L 420 294  C 420 296.8  417.8 299  415 299  L 5 299  C 2.1999999999999997 299  0 296.8  0 294  Z " stroke-width="2" stroke-dasharray="0" stroke="url(#LinearGradient431)" fill="none" transform="matrix(1 0 0 1 0 27 )" class="stroke" mask="url(#Clip434)" />
   </g>
 </svg>
