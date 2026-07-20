@@ -2,16 +2,16 @@
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="420px" height="267px" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <linearGradient gradientUnits="userSpaceOnUse" x1="420" y1="-2.3714363805993344E-13" x2="0" y2="266.9999999999998" id="LinearGradient419">
-      <stop id="Stop420" stop-color="#e9eefa" offset="0" />
-      <stop id="Stop421" stop-color="#91bdf9" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="420" y1="-2.3714363805993344E-13" x2="0" y2="266.9999999999998" id="LinearGradient134">
+      <stop id="Stop135" stop-color="#e9eefa" offset="0" />
+      <stop id="Stop136" stop-color="#91bdf9" offset="1" />
     </linearGradient>
-    <mask fill="white" id="Clip422">
+    <mask fill="white" id="Clip137">
       <path d="M 0 262  L 0 5  C 0 2.2  2.1999999999999997 0  5 0  L 415 0  C 417.8 0  420 2.2  420 5  L 420 262  C 420 264.8  417.8 267  415 267  L 5 267  C 2.1999999999999997 267  0 264.8  0 262  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 0 -31 )">
     <path d="M 0 262  L 0 5  C 0 2.2  2.1999999999999997 0  5 0  L 415 0  C 417.8 0  420 2.2  420 5  L 420 262  C 420 264.8  417.8 267  415 267  L 5 267  C 2.1999999999999997 267  0 264.8  0 262  Z " fill-rule="nonzero" fill="rgba(30, 152, 215, 0)" stroke="none" transform="matrix(1 0 0 1 0 31 )" class="fill" />
-    <path d="M 0 262  L 0 5  C 0 2.2  2.1999999999999997 0  5 0  L 415 0  C 417.8 0  420 2.2  420 5  L 420 262  C 420 264.8  417.8 267  415 267  L 5 267  C 2.1999999999999997 267  0 264.8  0 262  Z " stroke-width="2" stroke-dasharray="0" stroke="url(#LinearGradient419)" fill="none" transform="matrix(1 0 0 1 0 31 )" class="stroke" mask="url(#Clip422)" />
+    <path d="M 0 262  L 0 5  C 0 2.2  2.1999999999999997 0  5 0  L 415 0  C 417.8 0  420 2.2  420 5  L 420 262  C 420 264.8  417.8 267  415 267  L 5 267  C 2.1999999999999997 267  0 264.8  0 262  Z " stroke-width="2" stroke-dasharray="0" stroke="url(#LinearGradient134)" fill="none" transform="matrix(1 0 0 1 0 31 )" class="stroke" mask="url(#Clip137)" />
   </g>
 </svg>
